@@ -2,7 +2,6 @@
 
 #### README.md
 
-```markdown
 # Melody Sky - Adding Images and Album Descriptions
 
 ## Description 📄
