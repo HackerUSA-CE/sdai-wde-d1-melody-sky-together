@@ -28,10 +28,3 @@ In this lab, we will enhance Melody Sky's website by adding images and album des
 8. [ ] Add a description for Album 3: `The third album by Melody Sky, featuring collaborations with top artists` using the appropriate tag.
 
 🎊 **Excellent! You've added images and descriptions to Melody Sky's website.** 🎊
-
----
-
-### Solution codebase 👀
-🛑 **Only use this as a reference** 🛑
-
-💾 **Not something to copy and paste** 💾
