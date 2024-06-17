@@ -1,8 +1,4 @@
-### Lab 2: Try it Together - Adding Images and Album Descriptions
-
-#### README.md
-
-# Melody Sky - Adding Images and Album Descriptions
+# Lab 2: Try it Together - Melody Sky - Adding Images and Album Descriptions
 
 ## Description 📄
 In this lab, we will enhance Melody Sky's website by adding images and album descriptions. You will learn how to use the `<img>` tag and other text tags to create well-organized content.
