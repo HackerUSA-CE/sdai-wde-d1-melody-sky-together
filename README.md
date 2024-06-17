@@ -20,11 +20,11 @@ In this lab, we will enhance Melody Sky's website by adding images and album des
 
 ⚠️**Please Note!** All images have been provided and the names to them are in the file name.⚠️
 
-3. [ ] Add an image for Album 1 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `Album 1 Cover`.
+3. [ ] Add an image for Album 1 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `(cover name from image in assets/images)`.
 4. [ ] Add a description for Album 1: `This is the debut album by Melody Sky, featuring hit singles and fan favorites` using the appropriate tag.
-5. [ ] Add an image for Album 2 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `Album 2 Cover`.
+5. [ ] Add an image for Album 2 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `cover name from image in assets/images`.
 6. [ ] Add a description for Album 2: `The sophomore album by Melody Sky, showcasing a blend of new sounds and styles` using the appropriate tag.
-7. [ ] Add an image for Album 3 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `Album 3 Cover`.
+7. [ ] Add an image for Album 3 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `cover name from image in assets/images`.
 8. [ ] Add a description for Album 3: `The third album by Melody Sky, featuring collaborations with top artists` using the appropriate tag.
 
 🎊 **Excellent! You've added images and descriptions to Melody Sky's website.** 🎊
