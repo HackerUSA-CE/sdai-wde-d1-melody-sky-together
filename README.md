@@ -18,13 +18,13 @@ In this lab, we will enhance Melody Sky's website by adding images and album des
 1. [ ] Locate the specified position in the index.html document as instructed. Create a new `section` element at this location, and wrap all the content below this point within the newly created `section` element.
 2. [ ] Create an appropriate header tag with the copy `Albums`. 
 
-⚠️**Please Note!** All images have been provided and the names to them are in the file name.⚠️
+⚠️**Please Note!** All images have been provided and the names to them are in the file name in 'assets/images'.⚠️
 
-3. [ ] Add an image for Album 1 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `Album 1 Cover`.
+3. [ ] Add an image for Album 1 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `cover name from image in assets/images`.
 4. [ ] Add a description for Album 1: `This is the debut album by Melody Sky, featuring hit singles and fan favorites` using the appropriate tag.
-5. [ ] Add an image for Album 2 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `Album 2 Cover`.
+5. [ ] Add an image for Album 2 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `cover name from image in assets/images`.
 6. [ ] Add a description for Album 2: `The sophomore album by Melody Sky, showcasing a blend of new sounds and styles` using the appropriate tag.
-7. [ ] Add an image for Album 3 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `Album 3 Cover`.
+7. [ ] Add an image for Album 3 with the `src` attribute set to a placeholder URL and the `alt` attribute set to `cover name from image in assets/images`.
 8. [ ] Add a description for Album 3: `The third album by Melody Sky, featuring collaborations with top artists` using the appropriate tag.
 
 🎊 **Excellent! You've added images and descriptions to Melody Sky's website.** 🎊
@@ -35,3 +35,5 @@ In this lab, we will enhance Melody Sky's website by adding images and album des
 🛑 **Only use this as a reference** 🛑
 
 💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-wde-d1-melody-sky-together/blob/solution/index.html) (link not shown).
